@@ -1,0 +1,164 @@
+{
+  "type": "FeatureCollection",
+  "name": "Routes antiques romaines",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "nom": "Via Carthago - Thugga",
+        "type_voie": "Via publica",
+        "longueur_km": 98,
+        "etat": "bien conservée",
+        "epoque": "IIe siècle ap. J.-C."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [10.3236, 36.8528],
+          [10.1500, 36.9000],
+          [9.8500, 36.9500],
+          [9.3847, 36.7223]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "nom": "Via Thugga - Sufetula",
+        "type_voie": "Via militaris",
+        "longueur_km": 142,
+        "etat": "partiellement conservée",
+        "epoque": "Ier siècle ap. J.-C."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [9.3847, 36.7223],
+          [9.2000, 36.2000],
+          [8.9500, 35.5000],
+          [8.7089, 35.2347]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "nom": "Via Sufetula - Thysdrus",
+        "type_voie": "Via publica",
+        "longueur_km": 110,
+        "etat": "fragmentaire",
+        "epoque": "IIe siècle ap. J.-C."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [8.7089, 35.2347],
+          [9.0000, 35.1000],
+          [9.8000, 35.0500],
+          [10.7072, 35.2964]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "nom": "Via Thysdrus - Hadrumetum",
+        "type_voie": "Via commercialis",
+        "longueur_km": 75,
+        "etat": "bien conservée",
+        "epoque": "Ier siècle ap. J.-C."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [10.7072, 35.2964],
+          [10.6500, 35.6000],
+          [10.6383, 35.8256]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "nom": "Via Hadrumetum - Carthago",
+        "type_voie": "Via publica",
+        "longueur_km": 130,
+        "etat": "bien conservée",
+        "epoque": "Ier siècle av. J.-C."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [10.6383, 35.8256],
+          [10.5500, 36.2000],
+          [10.4000, 36.5000],
+          [10.3236, 36.8528]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "nom": "Via Carthago - Hippo Regius",
+        "type_voie": "Via militaris",
+        "longueur_km": 210,
+        "etat": "partiellement conservée",
+        "epoque": "IIe siècle ap. J.-C."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [10.3236, 36.8528],
+          [9.8000, 37.0000],
+          [9.2000, 36.9000],
+          [8.5000, 36.8500],
+          [7.7653, 36.8978]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "nom": "Via Thugga - Bulla Regia",
+        "type_voie": "Via secondaria",
+        "longueur_km": 65,
+        "etat": "fragmentaire",
+        "epoque": "IIe siècle ap. J.-C."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [9.3847, 36.7223],
+          [8.9000, 36.7000],
+          [8.7564, 36.5592]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "nom": "Via Bulla Regia - Hippo Regius",
+        "type_voie": "Via publica",
+        "longueur_km": 88,
+        "etat": "bien conservée",
+        "epoque": "Ier siècle ap. J.-C."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [8.7564, 36.5592],
+          [8.3000, 36.7000],
+          [7.7653, 36.8978]
+        ]
+      }
+    }
+  ]
+}
